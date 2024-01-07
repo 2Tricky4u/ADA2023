@@ -123,6 +123,10 @@ Type `.{abrv}` to complete statement  ex: `.ifnn`(if not null)\
 
 `Ctrl` + `Shift` + `F7` Highlight all usage of a symbol
 
+`Ctrl` + `Alt` + `L`    Reformat file
+
+`Ctrl` + `Alt` + `Shift` + `L`  Reformat settings   
+
 
 
 
